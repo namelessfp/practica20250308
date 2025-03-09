@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "practica20250308.appMVCDataFirts", "practica20250308.appMVCDataFirts\practica20250308.appMVCDataFirts.csproj", "{EC0B0AAA-F828-45CF-A091-401EDCAFA385}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "practica20250308.appMVCCodefirst", "practica20250308.appMVCCodefirst\practica20250308.appMVCCodefirst.csproj", "{E27BEBD8-01A5-4B02-82FA-8A5225640914}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC0B0AAA-F828-45CF-A091-401EDCAFA385}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC0B0AAA-F828-45CF-A091-401EDCAFA385}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC0B0AAA-F828-45CF-A091-401EDCAFA385}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC0B0AAA-F828-45CF-A091-401EDCAFA385}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E27BEBD8-01A5-4B02-82FA-8A5225640914}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E27BEBD8-01A5-4B02-82FA-8A5225640914}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E27BEBD8-01A5-4B02-82FA-8A5225640914}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E27BEBD8-01A5-4B02-82FA-8A5225640914}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD100FEE-CED4-4FF6-8ADD-8FCD254F2D2A}
+	EndGlobalSection
+EndGlobal
